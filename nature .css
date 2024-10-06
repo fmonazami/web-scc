@@ -1,0 +1,35 @@
+
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #e07827;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+   
+
+}
+#logo{
+   padding-top: 9%;
+   padding-left: 4%;
+}
+a{
+    color: #e07827;
+    text-decoration: none;
+    margin: 7%;
+    
+}
+a:active{
+    color: black;
+}
+.p{
+    width: 850px;
+    height: 400px;
+}
+@media screen and (max-width: 740px){
+    *{
+        font-size: small;
+    }
+    
+}
